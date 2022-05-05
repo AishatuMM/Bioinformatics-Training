@@ -5,6 +5,5 @@ Contributors are; Aishatu MM, Abduljalil II, Fatima IH, Mustapha IM and Jude E
 
 Languages; Python, C++, R, ....
 
-[training flier](https://user-images.githubusercontent.com/assets/images/electrocat.png)
 
-
+ ![training flier](images/IMG_9433.PNG)
