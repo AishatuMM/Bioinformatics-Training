@@ -1,4 +1,4 @@
-# Foundation-in-Bioinformatics
+# Bioinformatics Training:Foundation-in-Bioinformatics
 We are a group of five passionate learners of bioinformatics at MoGID from April 2022
 
 Contributors are Dr. Umar Ahmad;the so active tutor, Aishatu MM, Abduljalil II, Fatima IH, Mustapha IM and Jude E
