@@ -1,0 +1,5 @@
+Name = c("Jude Nnaka")
+Email = c("nnakajude@gmail.com")
+Slack = c("@Jude")
+Interest = c("Cancer bioinformatics")
+data.frame(Name, Email, Slack, Interest)
