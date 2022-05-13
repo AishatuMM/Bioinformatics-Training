@@ -4,7 +4,7 @@ ABOUT
 We are a group of five passionate learners of bioinformatics at MoGID from April 2022
 NAMES OF MEMBERS
 
-Contributors are; Aishatu MM, Abduljalil II, Fatima IH, Mustapha IM and Jude E
+Contributors are; Aishatu MM, Abduljalil II, Fatima IH, Mustapha IM and Jude AN
 
 PROGRAMMING LANGUAGES
 Languages; Python, C++, R, ....
